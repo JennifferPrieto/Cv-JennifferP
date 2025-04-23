@@ -33,6 +33,10 @@ Primer commits Enderson93.github.io y pull requests
 
 ![1commit](https://github.com/user-attachments/assets/bfe291bb-55e3-4dbe-8934-e0d519245fe0)
 
+Segundo commits vaguayob90.github.io y pull requests
+
+![2 commits](https://github.com/user-attachments/assets/63d4a171-10c7-4357-b3ad-dd4184300e55)
+
 
 
 
